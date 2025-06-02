@@ -2,11 +2,11 @@
 
 # How to secure a linux server
 
-** Dependencies **
+**Dependencies**
 
 - An provisioned linux machine
 
-** Tools Required **
+**Tools Required**
 
 - dnf_tool
 - hostname_tool
@@ -15,7 +15,7 @@
 - sshd_config_tool
 - firewall_tool
 
-** Questions **
+**Questions**
 
 - What is the name of the server?
 - What is the IP address of the server?
@@ -27,7 +27,7 @@
 - What is the firewall rule to allow SSH traffic?
 - What is the firewall rule to deny all other traffic?
 
-** Implmentation Steps **
+**Implementation Steps**
 
 1. Install dnf_tool on the server.
 2. Run hostname_tool to set the hostname of the server.
@@ -39,7 +39,7 @@
 8. Secure the SSH configuration file by setting appropriate permissions and disabling root login.
 9. Restart the SSH service to apply the changes.
 
-** Verification Steps **
+**Verification Steps**
 
 1. Test the SSH connection with the user credentials.
 2. Verify that the server is accessible from outside the network using the public IP address of the server.
