@@ -4,7 +4,7 @@
 
 **Dependencies**
 
-- An provisioned linux machine
+- A provisioned linux machine
 
 **Tools Required**
 
