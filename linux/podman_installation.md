@@ -79,4 +79,3 @@
 
 ## Produces
 - Installed and functional Podman environment
-```
