@@ -20,7 +20,7 @@ from arbitrary human readable documentation.
 ## Linux administration documents
 
 * [Secure a linux server](linux/secure_a_linux_server.md)
-* [Install Podman](linux/install_podman.md)
+* [Install Podman](linux/podman_installation.md)
 * [Backup a server](linux/backup_a_server.md)
 
 ## Kubernetes documentation
