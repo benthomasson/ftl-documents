@@ -50,3 +50,7 @@ from arbitrary human readable documentation.
 * [CProvision Azure VM](cloud-provisioning/azure_vm.md)
 * [Provision GCP Compute Engine](cloud-provisioning/gcp_compute_engine.md)
 
+
+## Game Servers
+
+* [Create a Minecraft server](games/minecraft_server.md)
