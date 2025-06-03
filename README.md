@@ -36,6 +36,7 @@ from arbitrary human readable documentation.
 ## Linode documents
 
 * [Create a linode](linode/create_a_linode.md)
+* [Secure a linode server](linode/secure_a_linode_server.md)
 
 
 ## Network administration
